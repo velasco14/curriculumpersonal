@@ -55,7 +55,6 @@ function cargarAnimaciones(){
             lineCap:"circle",
             animate:2000,
         });
-
     })
 }
 //Función para filtrar las categorías de los trabajos

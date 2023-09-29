@@ -429,18 +429,5 @@ footer{
         left: 350px; /* Distancia desde la izquierda */
         z-index: 9999; /* Esta propiedad alinea el texto a la derecha */
     }
-    
-    .rf{
-        max-width: 1100px;
-        margin: auto;
-        padding: 0 20px;
-    }
-    .rf h2{
-        text-align: center;
-    }
-    .rf nav{
-        text-align: center;
-        margin: 30px 0;
-    }
 
  
